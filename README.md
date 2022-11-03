@@ -10,3 +10,9 @@ Ovdje možete pronaći listu trenutačno dostupnih zadataka.
 - [X] Zrcalni
 - [X] Ljeto
 
+### Funkcije
+> Zadaci o funkcijama sa OneNota
+
+- [X] Kvadratna funkcija
+- [ ] Dvije kružnice
+- [ ] Prosti brojevi
