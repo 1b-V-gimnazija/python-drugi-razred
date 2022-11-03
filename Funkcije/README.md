@@ -14,5 +14,5 @@ Funkcije su način za organiziranje koda u manje, ponovljive dijelove. Ovdje mo�
 > Zadaci sa sata
 
 - [X] Kvadratna funkcija
-- [ ] Dvije kružnice
+- [X] Dvije kružnice
 - [ ] Prosti brojevi
