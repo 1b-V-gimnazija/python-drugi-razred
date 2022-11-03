@@ -14,5 +14,5 @@ Ovdje možete pronaći listu trenutačno dostupnih zadataka.
 > Zadaci o funkcijama sa OneNota
 
 - [X] Kvadratna funkcija
-- [ ] Dvije kružnice
+- [X] Dvije kružnice
 - [ ] Prosti brojevi
