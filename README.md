@@ -15,4 +15,6 @@ Ovdje možete pronaći listu trenutačno dostupnih zadataka.
 
 - [X] Kvadratna funkcija
 - [X] Dvije kružnice
-- [ ] Prosti brojevi
+- [ ] Broj prostih brojeva između dva broja
+- [ ] N-ti prost broj
+- [ ] Susjedni prosti brojevi
