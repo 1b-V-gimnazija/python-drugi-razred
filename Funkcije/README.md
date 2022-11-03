@@ -15,6 +15,6 @@ Funkcije su način za organiziranje koda u manje, ponovljive dijelove. Ovdje mo�
 
 - [X] Kvadratna funkcija
 - [X] Dvije kružnice
-- [ ] Broj prostih brojeva između dva broja
+- [X] Broj prostih brojeva između dva broja
 - [ ] N-ti prost broj
 - [ ] Susjedni prosti brojevi
