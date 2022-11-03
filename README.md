@@ -3,7 +3,7 @@ Rješenja python zadataka drugog razreda.
 
 ## Dostupnost
 Ovdje možete pronaći listu trenutačno dostupnih zadataka.
-### Ponavljanje (1. sat)
+### Ponavljanje
 > Zadaci sa prvog sata ponavljanja
 
 - [X] Otprilike
