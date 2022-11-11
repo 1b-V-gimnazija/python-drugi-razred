@@ -18,3 +18,24 @@ Ovdje možete pronaći listu trenutačno dostupnih zadataka.
 - [X] Broj prostih brojeva između dva broja
 - [ ] N-ti prost broj
 - [ ] Susjedni prosti brojevi
+
+### Stringovi
+> Zadaci o stringovima sa OneNota
+
+- [X] Crtkani Stringovi
+- [X] Imena
+- [X] Broj Znamenaka u Stringu
+- [ ] Mala slova stringa
+- [ ] UNICODE
+- [ ] Inicijali
+- [ ] Teniski Mečevi
+- [ ] Znak kroz String
+- [ ] Zamjena Susjednih Znakova
+- [ ] Rečenica
+- [ ] Zamjenski Znakovi
+- [ ] Komprimirani Tekst
+- [ ] Najdulji Palindrom Riječi
+- [ ] Dvostruka Riječ
+- [ ] Čaše
+- [ ] Camelot
+- [ ] Kemijska Formula
