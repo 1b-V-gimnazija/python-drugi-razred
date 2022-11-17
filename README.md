@@ -34,13 +34,13 @@ Ovdje možete pronaći listu trenutačno dostupnih zadataka.
 - [X] Crtkani Stringovi
 - [X] Imena
 - [X] Broj Znamenaka u Stringu
-- [ ] Mala slova stringa
-- [ ] UNICODE
-- [ ] Inicijali
-- [ ] Teniski Mečevi
-- [ ] Znak kroz String
+- [X] Mala slova stringa
+- [X] UNICODE
+- [X] Inicijali
+- [X] Teniski Mečevi
+- [X] Znak kroz String
 - [ ] Zamjena Susjednih Znakova
-- [ ] Rečenica
+- [X] Rečenica
 - [ ] Zamjenski Znakovi
 - [ ] Komprimirani Tekst
 - [ ] Najdulji Palindrom Riječi
