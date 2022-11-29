@@ -43,7 +43,7 @@ Ovdje možete pronaći listu trenutačno dostupnih zadataka.
 - [X] 10. Rečenica
 - [X] 11. Zamjenski Znakovi
 - [X] 12. Komprimirani Tekst
-- [ ] 13. Najdulji Palindrom Riječi
+- [X] 13. Najdulji Palindrom Riječi
 - [ ] 14. Dvostruka Riječ
 - [ ] 15. Čaše
 - [ ] 16. Camelot
