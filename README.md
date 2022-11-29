@@ -15,36 +15,36 @@ Ovdje možete pronaći listu trenutačno dostupnih zadataka.
 ### Ponavljanje
 > Zadaci sa prvog sata ponavljanja
 
-- [X] Otprilike
-- [X] Zrcalni
-- [X] Ljeto
+- [X] 1. Otprilike
+- [X] 2. Zrcalni
+- [X] 3. Ljeto
 
 ### Funkcije
 > Zadaci o funkcijama sa OneNota
 
-- [X] Kvadratna funkcija
-- [X] Dvije kružnice
-- [X] Broj prostih brojeva između dva broja
-- [ ] N-ti prost broj
-- [ ] Susjedni prosti brojevi
+- [X] 1. Kvadratna funkcija
+- [X] 2. Dvije kružnice
+- [X] 3. Broj prostih brojeva između dva broja
+- [ ] 4. N-ti prost broj
+- [ ] 5. Susjedni prosti brojevi
 
 ### Stringovi
 > Zadaci o stringovima sa OneNota
 
-- [X] Crtkani Stringovi
-- [X] Imena
-- [X] Broj Znamenaka u Stringu
-- [X] Mala slova stringa
-- [X] UNICODE
-- [X] Inicijali
-- [X] Teniski Mečevi
-- [X] Znak kroz String
-- [ ] Zamjena Susjednih Znakova
-- [X] Rečenica
-- [ ] Zamjenski Znakovi
-- [ ] Komprimirani Tekst
-- [ ] Najdulji Palindrom Riječi
-- [ ] Dvostruka Riječ
-- [ ] Čaše
-- [ ] Camelot
-- [ ] Kemijska Formula
+- [X] 1. Crtkani Stringovi
+- [X] 2. Imena
+- [X] 3. Broj Znamenaka u Stringu
+- [X] 4. Mala slova stringa
+- [X] 5. UNICODE
+- [X] 6. Inicijali
+- [X] 7. Teniski Mečevi
+- [X] 8. Znak kroz String
+- [X] 9. Zamjena Susjednih Znakova
+- [X] 10. Rečenica
+- [X] 11. Zamjenski Znakovi
+- [X] 12. Komprimirani Tekst
+- [ ] 13. Najdulji Palindrom Riječi
+- [ ] 14. Dvostruka Riječ
+- [ ] 15. Čaše
+- [ ] 16. Camelot
+- [ ] 17. Kemijska Formula
