@@ -7,20 +7,20 @@ Stringovi su skup simbola (slova, brojeva, znakova). Ovdje možete pronaći zada
 ### Zadaci
 > Zadaci sa sata i dalje
 
-- [X] Crtkani Stringovi
-- [X] Imena
-- [X] Broj Znamenaka u Stringu
-- [X] Mala slova stringa
-- [X] UNICODE
-- [X] Inicijali
-- [X] Teniski Mečevi
-- [X] Znak kroz String
-- [ ] Zamjena Susjednih Znakova
-- [X] Rečenica
-- [ ] Zamjenski Znakovi
-- [ ] Komprimirani Tekst
-- [ ] Najdulji Palindrom Riječi
-- [ ] Dvostruka Riječ
-- [ ] Čaše
-- [ ] Camelot
-- [ ] Kemijska Formula
+- [X] 1. Crtkani Stringovi
+- [X] 2. Imena
+- [X] 3. Broj Znamenaka u Stringu
+- [X] 4. Mala slova stringa
+- [X] 5. UNICODE
+- [X] 6. Inicijali
+- [X] 7. Teniski Mečevi
+- [X] 8. Znak kroz String
+- [ ] 9. Zamjena Susjednih Znakova
+- [X] 10. Rečenica
+- [ ] 11. Zamjenski Znakovi
+- [ ] 12. Komprimirani Tekst
+- [ ] 13. Najdulji Palindrom Riječi
+- [ ] 14. Dvostruka Riječ
+- [ ] 15. Čaše
+- [ ] 16. Camelot
+- [ ] 17. Kemijska Formula
