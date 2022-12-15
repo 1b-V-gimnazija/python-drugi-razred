@@ -44,7 +44,7 @@ Ovdje možete pronaći listu trenutačno dostupnih zadataka.
 - [X] 11. Zamjenski Znakovi
 - [X] 12. Komprimirani Tekst
 - [X] 13. Najdulji Palindrom Riječi
-- [ ] 14. Dvostruka Riječ
+- [X] 14. Dvostruka Riječ
 - [ ] 15. Čaše
 - [ ] 16. Camelot
 - [ ] 17. Kemijska Formula
